@@ -1,6 +1,6 @@
 # Calculator
 
-This is Project Made Under ![Lets Grow More Summer Intership](https://letsgrowmore.in/)
+This Project Made Under <a href="https://letsgrowmore.in/" > Lets Grow More Summer Internship </a>
 
 A simple Calculator App built with HTML, CSS, and JavaScript. It also has a Dark Mode.
 
